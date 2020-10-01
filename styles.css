@@ -1,0 +1,20 @@
+/* body {
+    background: url("http://3.bp.blogspot.com/-rKXU7l5InCM/T32MCcIg7KI/AAAAAAAAByc/pAfbBtkc5NA/s1600/Water+Splash+Wallpapers+1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+} */
+
+
+p {
+    color: yellow 
+}
+
+
+body {
+    background: url("http://3.bp.blogspot.com/-rKXU7l5InCM/T32MCcIg7KI/AAAAAAAAByc/pAfbBtkc5NA/s1600/Water+Splash+Wallpapers+1.jpg"); 
+    color: orange
+}
+
+div p {
+    color: gray
+}
